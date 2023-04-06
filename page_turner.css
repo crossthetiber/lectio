@@ -1,0 +1,57 @@
+body {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+ul.outermost {
+	margin-left: -1px;
+	font-size: 9px;
+	line-height: 150%;
+}
+
+ul.inner {
+	margin-left: 8px;
+	font-size: 9px;
+	line-height: 150%;
+}
+
+ul>li {
+	margin-left: -35px;
+	font-family: arial;
+	font-size: 9px;
+	line-height: 150%;
+}
+
+li {
+	list-style: none;
+	font-family: arial;
+	font-size: 9px;
+}
+
+pre.full_text {
+
+	border: 1px solid white;
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	width: 400px;
+	margin-left: 10px;
+	overflow: auto;
+	word-wrap: break-word;
+
+}
+
+a.print_key {
+
+	text-decoration: none;
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: black;
+
+}
+
+a.about_line {
+	text-decoration: none;
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #999966;
+}
